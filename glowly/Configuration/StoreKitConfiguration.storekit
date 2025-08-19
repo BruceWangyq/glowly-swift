@@ -1,0 +1,350 @@
+{
+  "identifier" : "D8B8F4A6",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6736849923",
+      "localizations" : [
+        {
+          "description" : "Classic vintage-inspired filters with film grain effects and sepia tones for that perfect retro look.",
+          "displayName" : "Vintage Filters Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.vintage_filters_pack",
+      "referenceName" : "Vintage Filters Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6736849924",
+      "localizations" : [
+        {
+          "description" : "Movie-quality color grading and cinematic looks to give your photos professional film aesthetics.",
+          "displayName" : "Cinematic Filters Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.cinematic_filters_pack",
+      "referenceName" : "Cinematic Filters Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6736849925",
+      "localizations" : [
+        {
+          "description" : "Perfect filters for portrait photography with skin smoothing and eye enhancement features.",
+          "displayName" : "Portrait Filters Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.portrait_filters_pack",
+      "referenceName" : "Portrait Filters Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6736849926",
+      "localizations" : [
+        {
+          "description" : "High-fashion editorial style filters with bold color palettes and professional styling effects.",
+          "displayName" : "Fashion Filters Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.fashion_filters_pack",
+      "referenceName" : "Fashion Filters Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "6736849927",
+      "localizations" : [
+        {
+          "description" : "Natural glow effects and radiant skin enhancements for that perfect healthy complexion.",
+          "displayName" : "Glow Makeup Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.glow_makeup_pack",
+      "referenceName" : "Glow Makeup Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "6736849928",
+      "localizations" : [
+        {
+          "description" : "Bold eye makeup and dramatic contouring effects for stunning evening looks and special occasions.",
+          "displayName" : "Dramatic Makeup Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.dramatic_makeup_pack",
+      "referenceName" : "Dramatic Makeup Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "6736849929",
+      "localizations" : [
+        {
+          "description" : "Subtle everyday makeup enhancements with natural colors for a fresh-faced, effortless look.",
+          "displayName" : "Natural Makeup Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.natural_makeup_pack",
+      "referenceName" : "Natural Makeup Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "6736849930",
+      "localizations" : [
+        {
+          "description" : "Creative festival looks with glitter effects and bold colors for party-ready styles and celebrations.",
+          "displayName" : "Festival Makeup Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.festival_makeup_pack",
+      "referenceName" : "Festival Makeup Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "6736849931",
+      "localizations" : [
+        {
+          "description" : "Romantic filters with soft lighting and elegant effects perfect for weddings and special moments.",
+          "displayName" : "Wedding Collection",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.wedding_collection",
+      "referenceName" : "Wedding Collection",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "6736849932",
+      "localizations" : [
+        {
+          "description" : "Festive themed filters with holiday colors and seasonal effects for celebration photos.",
+          "displayName" : "Holiday Collection",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.holiday_collection",
+      "referenceName" : "Holiday Collection",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "6736849933",
+      "localizations" : [
+        {
+          "description" : "Bright summer vibes with sun-kissed effects and vibrant colors for beach-ready looks.",
+          "displayName" : "Summer Collection",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.summer_collection",
+      "referenceName" : "Summer Collection",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "6736849934",
+      "localizations" : [
+        {
+          "description" : "Trending filters used by top influencers, social media optimized for viral looks and engagement.",
+          "displayName" : "Influencer Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.influencer_pack",
+      "referenceName" : "Influencer Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "6736849935",
+      "localizations" : [
+        {
+          "description" : "Professional retouching tools with blemish removal and skin perfecting capabilities.",
+          "displayName" : "Advanced Retouch Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.advanced_retouch_pack",
+      "referenceName" : "Advanced Retouch Pack",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "6736849936",
+      "localizations" : [
+        {
+          "description" : "Industry-standard professional tools with advanced controls and expert techniques.",
+          "displayName" : "Professional Tools Pack",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.novuxlab.glowly.pack.professional_tools_pack",
+      "referenceName" : "Professional Tools Pack",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6736849890",
+    "_developerTeamID" : "ABCD123456",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 745628459.82763004,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21482495",
+      "localizations" : [
+        {
+          "description" : "Unlock all premium features with unlimited access to filters, tools, and HD exports.",
+          "displayName" : "Glowly Premium",
+          "locale" : "en_US"
+        }
+      ],
+      "name" : "Glowly Premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : true,
+          "groupNumber" : 1,
+          "internalID" : "6736849921",
+          "introductoryOffer" : {
+            "internalID" : "6736849997",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "Unlimited filters, retouch tools, HD export, exclusive content, and watermark removal. Perfect for regular users who want full access to all features.",
+              "displayName" : "Premium Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.novuxlab.glowly.premium.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Premium Monthly",
+          "subscriptionGroupID" : "21482495",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "29.99",
+          "familyShareable" : true,
+          "groupNumber" : 2,
+          "internalID" : "6736849922",
+          "introductoryOffer" : {
+            "internalID" : "6736849998",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "All premium features with 50% savings compared to monthly. Best value for serious photo editors and content creators who use the app regularly.",
+              "displayName" : "Premium Yearly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.novuxlab.glowly.premium.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Premium Yearly",
+          "subscriptionGroupID" : "21482495",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
